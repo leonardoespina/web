@@ -1,0 +1,142 @@
+{
+  "platos": [
+    {
+      "nombre": "ahuyama",
+      "foto": "images/ahuyama.jpg",
+      "precio": 2.5,
+      "modelo_3d": "models/ahuyama.glb",
+      "ingredientes": [
+        "Calabaza",
+        "Agua",
+        "Sal (opcional)",
+        "Especias (opcional)"
+      ],
+      "descripcion": "Puré suave y dulce de auyama, ideal como acompañante ligero o para bebés."
+    },
+    {
+      "nombre": "burger",
+      "foto": "images/burger.jpg",
+      "precio": 6.75,
+      "modelo_3d": "models/burger.glb",
+      "ingredientes": [
+        "Pan de hamburguesa",
+        "Carne molida de res",
+        "Queso americano",
+        "Lechuga",
+        "Tomate",
+        "Cebolla",
+        "Salsa de tomate",
+        "Mostaza"
+      ],
+      "descripcion": "La clásica hamburguesa americana con carne jugosa, queso derretido y los aderezos de siempre."
+    },
+    {
+      "nombre": "chicken_sandwich",
+      "foto": "images/chicken_sandwich.jpg",
+      "precio": 7.2,
+      "modelo_3d": "models/chicken_sandwich.glb",
+      "ingredientes": [
+        "Pan de sándwich",
+        "Pechuga de pollo a la plancha",
+        "Mayonesa",
+        "Lechuga",
+        "Tomate"
+      ],
+      "descripcion": "Un sándwich ligero y sabroso con pechuga de pollo tierna y vegetales frescos."
+    },
+    {
+      "nombre": "cupcake",
+      "foto": "images/cupcake.jpg",
+      "precio": 3.0,
+      "modelo_3d": "models/cupcake.glb",
+      "ingredientes": [
+        "Harina",
+        "Azúcar",
+        "Huevo",
+        "Mantequilla",
+        "Extracto de vainilla",
+        "Frosting de vainilla"
+      ],
+      "descripcion": "Un pequeño pastel individual con una suave miga y un delicioso frosting de vainilla."
+    },
+    {
+      "nombre": "day_sanvalentin",
+      "foto": "images/day_sanvalentin.jpg",
+      "precio": 12.5,
+      "modelo_3d": "models/day_sanvalentin.glb",
+      "ingredientes": [
+        "Fresas frescas",
+        "Chocolate negro derretido",
+        "Crema batida",
+        "Bizcocho de vainilla"
+      ],
+      "descripcion": "Un postre especial para celebrar el Día de San Valentín con fresas dulces, chocolate rico y crema suave."
+    },
+    {
+      "nombre": "mcdonalds_lunch",
+      "foto": "images/mcdonalds_lunch.jpg",
+      "precio": 8.99,
+      "modelo_3d": "models/mcdonalds_lunch.glb",
+      "ingredientes": [
+        "Big Mac (dos carnes, salsa especial, lechuga, queso, pepinillos, cebolla en pan con ajonjolí)",
+        "Papas fritas",
+        "Coca-Cola"
+      ],
+      "descripcion": "El clásico almuerzo de McDonald's que incluye una Big Mac, papas fritas crujientes y una Coca-Cola refrescante."
+    },
+
+    {
+      "nombre": "pizza",
+      "foto": "images/pizza.jpg",
+      "precio": 11.0,
+      "modelo_3d": "models/pizza.glb",
+      "ingredientes": [
+        "Masa de pizza",
+        "Salsa de tomate",
+        "Queso mozzarella rallado",
+        "Pepperoni"
+      ],
+      "descripcion": "Una pizza clásica de pepperoni con salsa de tomate sabrosa y queso mozzarella derretido sobre una base crujiente."
+    },
+    {
+      "nombre": "sliceofcake",
+      "foto": "images/sliceofcake.jpg",
+      "precio": 4.5,
+      "modelo_3d": "models/sliceofcake.glb",
+      "ingredientes": [
+        "Harina",
+        "Azúcar",
+        "Huevos",
+        "Mantequilla",
+        "Chocolate en polvo",
+        "Frosting de chocolate"
+      ],
+      "descripcion": "Una generosa porción de pastel de chocolate húmedo cubierto con un rico frosting de chocolate."
+    },
+    {
+      "nombre": "soda",
+      "foto": "images/soda.jpg",
+      "precio": 1.75,
+      "modelo_3d": "models/soda.glb",
+      "ingredientes": ["Agua carbonatada", "Jarabe de cola", "Cafeína"],
+      "descripcion": "Una bebida gaseosa refrescante con el sabor clásico a cola."
+    },
+    {
+      "nombre": "super_hamburguesa",
+      "foto": "images/super_hamburguesa.jpg",
+      "precio": 9.5,
+      "modelo_3d": "models/super_hamburguesa.glb",
+      "ingredientes": [
+        "Pan de hamburguesa grande",
+        "Doble carne molida de res",
+        "Doble queso cheddar",
+        "Tocino crujiente",
+        "Lechuga",
+        "Tomate",
+        "Cebolla caramelizada",
+        "Salsa barbacoa"
+      ],
+      "descripcion": "Una hamburguesa imponente con doble carne, doble queso, tocino crujiente y cebolla caramelizada, bañada en salsa barbacoa."
+    }
+  ]
+}
