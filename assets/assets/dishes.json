@@ -1,6 +1,19 @@
 {
   "platos": [
     {
+      "nombre": "Hamburguesa Venezolana",
+      "foto": "images/hambur.jpg",
+      "precio": 5,
+      "modelo_3d": "/assets/models/hambur.glb",
+      "ingredientes": [
+        "Pan de hamburguesa",
+        "Carne molida de res",
+        "Queso americano",
+        "Lechuga"
+      ],
+      "descripcion": "La clásica hamburguesa venezolana con carne jugosa, queso derretido y los aderezos de siempre."
+    },
+     {
       "nombre": "ahuyama",
       "foto": "images/ahuyama.jpg",
       "precio": 2.5,
