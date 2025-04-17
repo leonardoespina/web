@@ -1,23 +1,11 @@
 {
   "platos": [
     {
-      "nombre": "Hamburguesa Venezolana",
-      "foto": "images/hambur.jpg",
-      "precio": 5,
-      "modelo_3d": "/assets/models/hambur.glb",
-      "ingredientes": [
-        "Pan de hamburguesa",
-        "Carne molida de res",
-        "Queso americano",
-        "Lechuga"
-      ],
-      "descripcion": "La clásica hamburguesa venezolana con carne jugosa, queso derretido y los aderezos de siempre."
-    },
-     {
+      "id": 1,
       "nombre": "ahuyama",
       "foto": "images/ahuyama.jpg",
       "precio": 2.5,
-      "modelo_3d": "/assets/models/ahuyama.glb",
+      "modelo_3d": "models/ahuyama.glb",
       "ingredientes": [
         "Calabaza",
         "Agua",
@@ -27,6 +15,7 @@
       "descripcion": "Puré suave y dulce de auyama, ideal como acompañante ligero o para bebés."
     },
     {
+      "id": 2,
       "nombre": "burger",
       "foto": "images/burger.jpg",
       "precio": 6.75,
@@ -44,6 +33,7 @@
       "descripcion": "La clásica hamburguesa americana con carne jugosa, queso derretido y los aderezos de siempre."
     },
     {
+      "id": 3,
       "nombre": "chicken_sandwich",
       "foto": "images/chicken_sandwich.jpg",
       "precio": 7.2,
@@ -58,6 +48,7 @@
       "descripcion": "Un sándwich ligero y sabroso con pechuga de pollo tierna y vegetales frescos."
     },
     {
+      "id": 4,
       "nombre": "cupcake",
       "foto": "images/cupcake.jpg",
       "precio": 3.0,
@@ -73,6 +64,7 @@
       "descripcion": "Un pequeño pastel individual con una suave miga y un delicioso frosting de vainilla."
     },
     {
+      "id": 5,
       "nombre": "day_sanvalentin",
       "foto": "images/day_sanvalentin.jpg",
       "precio": 12.5,
@@ -86,6 +78,7 @@
       "descripcion": "Un postre especial para celebrar el Día de San Valentín con fresas dulces, chocolate rico y crema suave."
     },
     {
+      "id": 6,
       "nombre": "mcdonalds_lunch",
       "foto": "images/mcdonalds_lunch.jpg",
       "precio": 8.99,
@@ -99,6 +92,7 @@
     },
 
     {
+      "id": 7,
       "nombre": "pizza",
       "foto": "images/pizza.jpg",
       "precio": 11.0,
@@ -112,6 +106,7 @@
       "descripcion": "Una pizza clásica de pepperoni con salsa de tomate sabrosa y queso mozzarella derretido sobre una base crujiente."
     },
     {
+      "id": 8,
       "nombre": "sliceofcake",
       "foto": "images/sliceofcake.jpg",
       "precio": 4.5,
@@ -127,6 +122,7 @@
       "descripcion": "Una generosa porción de pastel de chocolate húmedo cubierto con un rico frosting de chocolate."
     },
     {
+      "id": 9,
       "nombre": "soda",
       "foto": "images/soda.jpg",
       "precio": 1.75,
@@ -135,6 +131,7 @@
       "descripcion": "Una bebida gaseosa refrescante con el sabor clásico a cola."
     },
     {
+      "id": 10,
       "nombre": "super_hamburguesa",
       "foto": "images/super_hamburguesa.jpg",
       "precio": 9.5,
