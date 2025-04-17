@@ -37,7 +37,7 @@
       "nombre": "chicken_sandwich",
       "foto": "images/chicken_sandwich.jpg",
       "precio": 7.2,
-      "modelo_3d": "models/chicken_sandwich.glb",
+      "modelo_3d": "/assets/models/chicken_sandwich.glb",
       "ingredientes": [
         "Pan de sándwich",
         "Pechuga de pollo a la plancha",
@@ -52,7 +52,7 @@
       "nombre": "cupcake",
       "foto": "images/cupcake.jpg",
       "precio": 3.0,
-      "modelo_3d": "models/cupcake.glb",
+      "modelo_3d": "/assets/models/cupcake.glb",
       "ingredientes": [
         "Harina",
         "Azúcar",
@@ -68,7 +68,7 @@
       "nombre": "day_sanvalentin",
       "foto": "images/day_sanvalentin.jpg",
       "precio": 12.5,
-      "modelo_3d": "models/day_sanvalentin.glb",
+      "modelo_3d": "/assets/models/day_sanvalentin.glb",
       "ingredientes": [
         "Fresas frescas",
         "Chocolate negro derretido",
@@ -82,7 +82,7 @@
       "nombre": "mcdonalds_lunch",
       "foto": "images/mcdonalds_lunch.jpg",
       "precio": 8.99,
-      "modelo_3d": "models/mcdonalds_lunch.glb",
+      "modelo_3d": "/assets/models/mcdonalds_lunch.glb",
       "ingredientes": [
         "Big Mac (dos carnes, salsa especial, lechuga, queso, pepinillos, cebolla en pan con ajonjolí)",
         "Papas fritas",
@@ -96,7 +96,7 @@
       "nombre": "pizza",
       "foto": "images/pizza.jpg",
       "precio": 11.0,
-      "modelo_3d": "models/pizza.glb",
+      "modelo_3d": "/assets/models/pizza.glb",
       "ingredientes": [
         "Masa de pizza",
         "Salsa de tomate",
@@ -110,7 +110,7 @@
       "nombre": "sliceofcake",
       "foto": "images/sliceofcake.jpg",
       "precio": 4.5,
-      "modelo_3d": "models/sliceofcake.glb",
+      "modelo_3d": "/assets/models/sliceofcake.glb",
       "ingredientes": [
         "Harina",
         "Azúcar",
@@ -126,7 +126,7 @@
       "nombre": "soda",
       "foto": "images/soda.jpg",
       "precio": 1.75,
-      "modelo_3d": "models/soda.glb",
+      "modelo_3d": "/assets/models/soda.glb",
       "ingredientes": ["Agua carbonatada", "Jarabe de cola", "Cafeína"],
       "descripcion": "Una bebida gaseosa refrescante con el sabor clásico a cola."
     },
@@ -135,7 +135,7 @@
       "nombre": "super_hamburguesa",
       "foto": "images/super_hamburguesa.jpg",
       "precio": 9.5,
-      "modelo_3d": "models/super_hamburguesa.glb",
+      "modelo_3d": "/assets/models/super_hamburguesa.glb",
       "ingredientes": [
         "Pan de hamburguesa grande",
         "Doble carne molida de res",
