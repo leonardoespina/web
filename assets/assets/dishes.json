@@ -5,7 +5,7 @@
       "nombre": "ahuyama",
       "foto": "images/ahuyama.jpg",
       "precio": 2.5,
-      "modelo_3d": "/assets/assets/models/ahuyama.glb",
+      "modelo_3d": "assets/assets/models/ahuyama.glb",
       "ingredientes": [
         "Calabaza",
         "Agua",
