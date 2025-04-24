@@ -12,6 +12,8 @@
         "Sal (opcional)",
         "Especias (opcional)"
       ],
+      "categoria": "Acompañantes",
+      "tipo": "Puré",
       "descripcion": "Puré suave y dulce de auyama, ideal como acompañante ligero o para bebés."
     },
     {
@@ -30,6 +32,8 @@
         "Salsa de tomate",
         "Mostaza"
       ],
+      "categoria": "Combos",
+      "tipo": "Hamburguesa",
       "descripcion": "La clásica hamburguesa americana con carne jugosa, queso derretido y los aderezos de siempre."
     },
     {
@@ -45,6 +49,8 @@
         "Lechuga",
         "Tomate"
       ],
+      "categoria": "Combos",
+      "tipo": "Sándwich",
       "descripcion": "Un sándwich ligero y sabroso con pechuga de pollo tierna y vegetales frescos."
     },
     {
@@ -61,6 +67,8 @@
         "Extracto de vainilla",
         "Frosting de vainilla"
       ],
+      "categoria": "Postres",
+      "tipo": "Pastel individual",
       "descripcion": "Un pequeño pastel individual con una suave miga y un delicioso frosting de vainilla."
     },
     {
@@ -75,6 +83,8 @@
         "Crema batida",
         "Bizcocho de vainilla"
       ],
+      "categoria": "Postres",
+      "tipo": "Especial",
       "descripcion": "Un postre especial para celebrar el Día de San Valentín con fresas dulces, chocolate rico y crema suave."
     },
     {
@@ -88,9 +98,10 @@
         "Papas fritas",
         "Coca-Cola"
       ],
+      "categoria": "Combos",
+      "tipo": "Almuerzo",
       "descripcion": "El clásico almuerzo de McDonald's que incluye una Big Mac, papas fritas crujientes y una Coca-Cola refrescante."
     },
-
     {
       "id": 7,
       "nombre": "pizza",
@@ -103,6 +114,8 @@
         "Queso mozzarella rallado",
         "Pepperoni"
       ],
+      "categoria": "Pizzas",
+      "tipo": "Pepperoni",
       "descripcion": "Una pizza clásica de pepperoni con salsa de tomate sabrosa y queso mozzarella derretido sobre una base crujiente."
     },
     {
@@ -119,6 +132,8 @@
         "Chocolate en polvo",
         "Frosting de chocolate"
       ],
+      "categoria": "Postres",
+      "tipo": "Porción de pastel",
       "descripcion": "Una generosa porción de pastel de chocolate húmedo cubierto con un rico frosting de chocolate."
     },
     {
@@ -128,6 +143,8 @@
       "precio": 1.75,
       "modelo_3d": "/assets/models/soda.glb",
       "ingredientes": ["Agua carbonatada", "Jarabe de cola", "Cafeína"],
+      "categoria": "Bebidas",
+      "tipo": "Refresco",
       "descripcion": "Una bebida gaseosa refrescante con el sabor clásico a cola."
     },
     {
@@ -146,6 +163,8 @@
         "Cebolla caramelizada",
         "Salsa barbacoa"
       ],
+      "categoria": "Combos",
+      "tipo": "Hamburguesa doble",
       "descripcion": "Una hamburguesa imponente con doble carne, doble queso, tocino crujiente y cebolla caramelizada, bañada en salsa barbacoa."
     }
   ]
